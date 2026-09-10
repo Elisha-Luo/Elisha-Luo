@@ -54,9 +54,9 @@ no copied templates.
 >
 > 这里的每个项目**每一行都写了中文注释**。注释本来是写给自己看的，也希望能给其他刚开始学的人当个参考。
 
-- 🔭 **Currently learning / 正在学FDE —— Python 基础、Web 后端开发（Flask）
-- 🌱 **Next up / 接下来想做FDE工程师, 完成自己的作品集 —— 数据库（SQLite）、把项目部署到线上
-- 💬 **Ask me about / 可以问我Python以及关于AI的知识 —— Python 入门、怎么调用大模型 API
+- 🔭 **Currently learning / 正在学：FDE** —— Python 基础、Web 后端开发（Flask）
+- 🌱 **Next up / 接下来想做：FDE 工程师** —— 完成自己的作品集、数据库（SQLite）、把项目部署到线上
+- 💬 **Ask me about / 可以问我：** Python 入门、怎么调用大模型 API
 
 <!-- 上面三条「改成你自己的」：换成你真实在学、真实想做的事，别硬凑 -->
 
