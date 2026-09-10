@@ -12,8 +12,8 @@
 <h1 align="center">Hi, I'm Elisha 👋</h1>
 
 <p align="center">
-  <em>Learning Python by building small tools that actually work.</em><br>
-  <em>正在自学 Python —— 通过动手做能真正用起来的小工具来学习。</em>
+  <em>On my way to becoming a <strong>Forward Deployed Engineer</strong> — learning Python by building tools that actually solve problems.</em><br>
+  <em>目标：成为一名 <strong>FDE（前向部署工程师）</strong> —— 通过动手做能真正解决问题的工具来学 Python。</em>
 </p>
 
 ---
