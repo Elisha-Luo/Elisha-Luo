@@ -45,6 +45,15 @@ no copied templates.
 
 `Python` · `Flask` · `Jinja2` · `CSS`
 
+### [doc_summarizer](https://github.com/Elisha-Luo/doc_summarizer)
+
+**A document summarizer powered by DeepSeek.** Feed it a `.txt` file or paste text straight in, and
+get back 3-5 key points. Reads both UTF-8 and GBK encoded files without extra configuration.
+
+**文档总结工具。** 喂给它一个 txt 文件，或直接粘贴一段文字，返回 3-5 个要点。自动识别 UTF-8 和 GBK 编码，不用手动转换。
+
+`Python` · `openai SDK` · `CLI`
+
 ---
 
 ## 📖 About My Code / 关于我的代码
